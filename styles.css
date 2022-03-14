@@ -1,20 +1,21 @@
 p {
    font-size: 16px;
    color: black;
-   font-family: "Lucida Console", "Courier New", monospace;
+   font-family: "Times New Roman", Times, serif;
    margin-top: 10px,
 }
 
 h5 {
   font-size: 20px;
   font-weight: bold;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Times New Roman", Times, serif;
 }
 h6 {
   font-size: 18px;
   font-weight: bold;
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Times New Roman", Times, serif;
 }
+
 
   img {
   max-width: 40%;
