@@ -2,7 +2,8 @@ library(ggplot2)
 library(plotly)
 library(dplyr)
 library(readxl)
-
+library("mapproj")
+library("maps")
 
 custom_titles <- reactiveValues("Foreign_born" = "The Number of Foreign Born Immigrants in the U.S. in 2018", 
                                 "Mexico" = "The Number of Mexican Immigrants in the U.S. in 2018.", 

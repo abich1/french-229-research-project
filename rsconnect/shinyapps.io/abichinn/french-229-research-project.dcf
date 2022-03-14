@@ -1,0 +1,14 @@
+name: french-229-research-project
+title: french-229-research-project
+username:
+account: abichinn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5851687
+bundleId: 5683316
+url: https://abichinn.shinyapps.io/french-229-research-project/
+when: 1647284207.19155
+lastSyncTime: 1647284207.19155
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Current-Data_Statistical-Portrait-of-the-Foreign-Born-2018.xlsx|README.md
