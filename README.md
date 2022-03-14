@@ -16,7 +16,6 @@ Budiman, Abby, et al. Region and Top States of Residence of U.S. Immigrants. Was
 
 Chiswick, Barry R., and Paul W. Miller. “Where Immigrants Settle in the United States.” Journal of Comparative Policy Analysis, vol. 6, no. 2, Taylor & Francis Ltd, 2004, pp. 185–197, https://www.tandfonline.com/doi/full/10.1080/1387698042000273479. Accessed 11 Mar. 2022.
 
-Novotny, Josef, and Jiri Hasman. “The Emergence of Regional Immigrant Concentrations in USA and Australia: a Spatial Relatedness Approach.” PloS One, vol. 10, no. 5, Public Library of Science, 2015, https://journals.plos.org/plosone/article?id=10.1371/journal
-.pone.0126793. Accessed 10 Mar. 2022.
+Novotny, Josef, and Jiri Hasman. “The Emergence of Regional Immigrant Concentrations in USA and Australia: a Spatial Relatedness Approach.” PloS One, vol. 10, no. 5, Public Library of Science, 2015, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126793. Accessed 10 Mar. 2022.
 
 Zavodny, Madeline. “Determinants of Recent Immigrants’ Locational Choices.” The International Migration Review, vol. 33, no. 4, 1999, pp. 1014–1030. JSTOR, https://www.jstor.org/stable/2547361. Accessed 8 Mar. 2022.
